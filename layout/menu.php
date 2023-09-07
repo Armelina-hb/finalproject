@@ -21,11 +21,12 @@
 </style>
 
 <header data-bs-theme="dark">
+  
   <div class="menu1">
     <ul>
       <li> <a href="./index.php?page=login">Login</a> </li>
       <li> <a href="./index.php?page=signup">Sign Up</a> </li>
-      <li> <a href="./index.php?page=professionals">Professionals</a> </li>
+      <!-- <li> <a href="./index.php?page=professionals">Professionals</a> </li> -->
       <li> <a href="./index.php?page=search">&#x1F50D</a> </li>
     </ul>
   </div>
